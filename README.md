@@ -8,6 +8,7 @@
   <div> <a href='https://www.notion.so/6e8a11b6d33e40958c056c02a4076f8f?pvs=4'>Notion Link</a></div> </br>
 
 <h3>✨Tech Stack✨</h3>
+<img src ="https://img.shields.io/badge/flutter-02569B.svg?&style=flat-square&logo=flutter&logoColor=white"/>&nbsp 
 <img src ="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=flat-square&logo=kotlin&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/reactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
@@ -20,7 +21,7 @@
 <h3>🛠Tools🛠</h3>
         <img src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white"/>
         <img src ="https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
-        <img src ="https://img.shields.io/badge/figma-#F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
         <img src ="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/figma-F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gamja3&show_icons=true&theme=transparent" /> -->
  </div>
