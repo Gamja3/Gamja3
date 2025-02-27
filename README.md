@@ -20,6 +20,7 @@
 <h3>🛠Tools🛠</h3>
         <img src ="https://img.shields.io/badge/firebase-DD2C00.svg?&style=flat-square&logo=firebase&logoColor=white"/>
         <img src ="https://img.shields.io/badge/git-F05032.svg?&style=flat-square&logo=git&logoColor=white"/>
+        <img src ="https://img.shields.io/badge/figma-#F24E1E.svg?&style=flat-square&logo=figma&logoColor=white"/>
         <img src ="https://img.shields.io/badge/notion-000000.svg?&style=flat-square&logo=notion&logoColor=white"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gamja3&show_icons=true&theme=transparent" /> -->
  </div>
